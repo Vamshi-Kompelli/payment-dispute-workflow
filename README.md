@@ -21,3 +21,14 @@ Do not copy a finished implementation. Complete one issue at a time, commit your
 10. Document analyzer and policy RAG assistant
 
 See `ROADMAP.md`, `REQUIREMENTS.md`, and `LEARNING_CHECKPOINTS.md`.
+
+## Development Status
+
+This project is being built milestone by milestone as part of my Python backend development learning journey.
+
+Current progress:
+
+- Python fundamentals completed
+- Object-oriented programming completed
+- Git and GitHub in progress
+- Payment dispute domain model planned
