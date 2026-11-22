@@ -32,3 +32,4 @@ Current progress:
 - Object-oriented programming completed
 - Git and GitHub in progress
 - Payment dispute domain model planned
+- Local Git workflow practice in progress
